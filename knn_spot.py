@@ -15,7 +15,7 @@ tracks = pd.read_csv('tracks.txt', sep='\t')
 tracks.head()
 
 # create a mapping from track label value to track name to make results easier to interpret
-lookup_track_name = dict(zip(tracks.track_id.unique(), tracks.track.unique()))
+lookup_track_name = dict(zip(tracks.track_id.unique(), tracks.genre.unique()))
 print(lookup_track_name)
 
 X = tracks[['danceability', 'energy', 'key', 'loudness']]
@@ -23,13 +23,14 @@ y = tracks['track_id']
 
 knn.fit(X, y)
 
-# hiphop || Lonely (with Lil Wayne) - DaBaby, Lile
+print("Predictions:")
+# hiphop || Lonely (with Lil Wayne) - DaBaby, Lil Wayne
 unknown1 = pd.DataFrame([[0.718, 0.628, 0, -5.334]], columns=['danceability', 'energy', 'key', 'loudness'])
 track_prediction = knn.predict(unknown1)
 print(lookup_track_name[track_prediction[0]])
 print(knn.predict_proba(unknown1))
 
-# blackdark || Rat King - Code
+# doom || Rat King - Code
 unknown2 = pd.DataFrame([[0.346, 0.938, 6, -9.088]], columns=['danceability', 'energy', 'key', 'loudness'])
 track_prediction = knn.predict(unknown2)
 print(lookup_track_name[track_prediction[0]])
