@@ -50,8 +50,11 @@ def getBestTestSize(X, y, neighbor_count, distance_metric, iters):
             bestTestSize = ts
     return bestTestSize
 
+# plotBest (METRIC) cool documentation notes
+# CONFUSION MATRIX: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html for Individual Report.5
+
 # Sets up the statistically best heuristic values for the KNN (k, p, & test size), then displays those as plots
-def showKNNClassificationHeuristics(X, y, y_colors, base_neighbor_count, base_distance_metric, base_test_size):
+def plotKNNClassificationHeuristics(X, y, y_colors, base_neighbor_count, base_distance_metric, base_test_size):
     best_neighbor_count = base_neighbor_count
     best_distance_metric = base_distance_metric
     best_test_size = base_test_size
@@ -60,12 +63,21 @@ def showKNNClassificationHeuristics(X, y, y_colors, base_neighbor_count, base_di
         best_neighbor_count = getBestNeighborCount(X, y, best_distance_metric, best_test_size, ITERS)
         best_distance_metric = getBestDistanceMetric(X, y, best_neighbor_count, best_test_size, ITERS)
         best_test_size = getBestTestSize(X, y, best_neighbor_count, best_distance_metric, ITERS)
-        print(str(best_neighbor_count) + " " + str(best_distance_metric) + " " + str(best_test_size))
 
-    #showBestNeighborCounts(X, y, y_colors, best_distance_metric, best_test_size, ITERS)
-    #showBestDistanceMetrics(X, y, y_colors, best_neighbor_count, best_test_size, ITERS)
-    #showBestTestSizes(X, y, y_colors, best_neighbor_count, best_distance_metric, ITERS)
-    
+    # For Individual Report.5
+    # best_neighbor_count = plotBestNeighborCounts(X, y, y_colors, best_distance_metric, best_test_size, ITERS)
+    # best_distance_metric = plotBestDistanceMetrics(X, y, y_colors, best_neighbor_count, best_test_size, ITERS)
+    # best_test_size = plotBestTestSizes(X, y, y_colors, best_neighbor_count, best_distance_metric, ITERS)
+
+    # For Python Script.3
+    print("Test size used: " + str(best_test_size))
+    # For Python Script.4
+    print("Distance metric used: " + str(best_distance_metric))
+
+    # For Python Script.5
+    knn = KNeighborsClassifier(n_neighbors=best_neighbor_count, p=best_distance_metric)
+    # plotKnnAccuracy(X, y, y_colors, knn, best_test_size)
+
     print("best neighbor count " + str(best_neighbor_count))
     print("best distance metric " + str(best_distance_metric))
     print("best test size " + str(best_test_size))
