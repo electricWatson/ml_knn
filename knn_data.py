@@ -20,3 +20,18 @@ def printClassDistributions(y):
     print("Class Distributions: ")
     for genre in dc:
         print("\t" + genre + ": " + str(dc[genre]))
+
+
+def printClassStatistics(data):
+    print("Minimums attribute values: ")
+    print(data.min())
+    print("Maximum attribute values: ")
+    print(data.max())
+    print("Mean attribute values: ")
+    print(data.mean())
+    print("Median attribute values: ")
+    print(data.median())
+    print("Mode attribute values: ")
+    print(data.mode())
+    print("Std dev attribute values: ")
+    print(data.std())
