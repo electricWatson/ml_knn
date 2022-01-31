@@ -2,6 +2,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import train_test_split
 import numpy as np
 
+# Fits the data {iters} amount of times with each neighbor count, getting the total score of each neighbor count and returning the highest one
 def getBestNeighborCount(X, y, distance_metric, test_size, iters):
     bestNeighborCount = -1
     highestAccuracy = 0
@@ -17,6 +18,7 @@ def getBestNeighborCount(X, y, distance_metric, test_size, iters):
             bestNeighborCount = k
     return bestNeighborCount
 
+# Fits the data {iters} amount of times with each distance metric, getting the total score of each distance metric and returning the highest one
 def getBestDistanceMetric(X, y, neighbor_count, test_size, iters):
     bestDistanceMetric = -1
     highestAccuracy = 0
@@ -32,6 +34,7 @@ def getBestDistanceMetric(X, y, neighbor_count, test_size, iters):
             bestDistanceMetric = d
     return bestDistanceMetric
 
+# Fits the data {iters} amount of times with each test size, getting the total score of each test size and returning the highest one
 def getBestTestSize(X, y, neighbor_count, distance_metric, iters):
     bestTestSize = -1
     highestAccuracy = 0
@@ -47,6 +50,7 @@ def getBestTestSize(X, y, neighbor_count, distance_metric, iters):
             bestTestSize = ts
     return bestTestSize
 
+# Sets up the statistically best heuristic values for the KNN (k, p, & test size), then displays those as plots
 def showKNNClassificationHeuristics(X, y, y_colors, base_neighbor_count, base_distance_metric, base_test_size):
     best_neighbor_count = base_neighbor_count
     best_distance_metric = base_distance_metric
