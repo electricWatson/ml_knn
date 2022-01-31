@@ -2,9 +2,9 @@ import knn_test as kt
 import knn_data as kd
 
 # For Python Script.1
-#kd.printAttributeCount()
+kd.printAttributeCount(kd.X)
 # For Python Script.2a
-#kd.printClassDistributions()
+kd.printClassDistributions(kd.y)
 # For Python Script.2b
 #kd.plotClassDistributions()
 # For Individual Report.3
