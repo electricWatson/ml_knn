@@ -7,6 +7,8 @@ import knn_data as kd
 #kd.printClassDistributions()
 # For Python Script.2b
 #kd.plotClassDistributions()
+# For Individual Report.3
+#kd.printClassStatistics()
 
 # Make KNN with K=3 nearest neighbors, minkowski distance metric with p=2 (Euclidean distance), test size of 0.25 as defaults
 BASE_NEIGHBOR_COUNT = 3
