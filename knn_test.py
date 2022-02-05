@@ -23,7 +23,8 @@ def getBestNeighborCount(X, y, distance_metric, test_size, iters):
 def getBestDistanceMetric(X, y, neighbor_count, test_size, iters):
     bestDistanceMetric = -1
     highestAccuracy = 0
-    for d in np.arange(1, 5, 0.5):
+    for d in np.linspace(1, 5, 20):
+        d = round(d, 2)
         total = 0
         for i in range(iters):
             knn = KNeighborsClassifier(n_neighbors=neighbor_count, p=d)
@@ -40,7 +41,8 @@ def getBestTestSize(X, y, neighbor_count, distance_metric, iters):
     bestTestSize = -1
     highestAccuracy = 0
     knn = KNeighborsClassifier(n_neighbors=neighbor_count, p=distance_metric)
-    for ts in np.arange(0.1, 0.9, 0.05):
+    for ts in np.linspace(0.1, 0.9, 20):
+        ts = round(ts, 2)
         total = 0
         for i in range(iters):
             X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=ts)
@@ -53,8 +55,10 @@ def getBestTestSize(X, y, neighbor_count, distance_metric, iters):
 
 # Plots a dictionaries key value pairs as X,Y points on a bar chart
 def plotDictionary(dictionary, xlabel, ylabel, fignum):
+    print(dictionary)
     plt.figure(fignum)
-    plt.bar(*zip(*dictionary.items()))
+    plt.bar(range(len(dictionary)), list(dictionary.values()), align='center')
+    plt.xticks(range(len(dictionary)), list(dictionary.keys()))
 
 # Fits the data {iters} amount of times with each neighbor count, getting the total score of each neighbor count and returning the highest one
 def plotBestNeighborCounts(fignum, X, y, distance_metric, test_size, iters):
@@ -84,7 +88,8 @@ def plotBestDistanceMetrics(fignum, X, y, neighbor_count, test_size, iters):
     highestAccuracy = 0
     
     accuracies = dict()
-    for d in np.arange(1, 5, 0.5):
+    for d in np.linspace(1, 5, 20):
+        d = round(d, 2)
         total = 0
         for i in range(iters):
             knn = KNeighborsClassifier(n_neighbors=neighbor_count, p=d)
@@ -107,7 +112,8 @@ def plotBestTestSizes(fignum, X, y, neighbor_count, distance_metric, iters):
     knn = KNeighborsClassifier(n_neighbors=neighbor_count, p=distance_metric)
 
     accuracies = dict()
-    for ts in np.arange(0.1, 0.9, 0.05):
+    for ts in np.linspace(0.1, 0.9, 20):
+        ts = round(ts, 2)
         total = 0
         for i in range(iters):
             X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=ts)
