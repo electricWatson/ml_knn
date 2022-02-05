@@ -149,6 +149,8 @@ track_id	genre	track	danceability	energy	key	loudness
 2	blackdark	When Will Gods Work Be Done	0.471	0.94	3	-5.873
 2	blackdark	End of Message	0.475	0.924	7	-6.184
 2	blackdark	Cursed	0.559	0.979	8	-4.76
+2	blackdark	Wilde Kinder	0.407	0.957	8	-3.553
+2	blackdark	Elle se répète froidement	0.374	0.871	5	-4.448
 3	lofi	High Flying	0.673	0.252	8	-15.823
 3	lofi	Sleepless	0.697	0.395	10	-13.56
 3	lofi	Serene	0.71	0.176	0	-13.619
@@ -322,83 +324,3 @@ track_id	genre	track	danceability	energy	key	loudness
 4	doom	The Catechism of Depression	0.126	0.263	5	-8.638
 4	doom	Born Too Late	0.222	0.341	8	-15.308
 4	doom	Bottled Insanity	0.456	0.975	1	-5.374
-5	black	Ner i Mörkret	0.473	0.663	0	-9.665
-5	black	Dream Cull	0.418	0.854	6	-8.717
-5	black	Sovereign	0.382	0.947	5	-7.979
-5	black	Worship	0.211	0.939	1	-7.932
-5	black	Wilde Kinder	0.407	0.957	8	-3.553
-5	black	Let the Devil In	0.155	0.94	8	-5.904
-5	black	Szex Witchery	0.224	0.983	6	-6.32
-5	black	Elle se répète froidement	0.374	0.871	5	-4.448
-5	black	The Fall Of Jotunheim	0.449	0.963	11	-6.406
-5	black	Fn .380 Acp#19074	0.35	0.885	5	-4.883
-5	black	Into the Night	0.183	0.5	4	-7.979
-5	black	Valley of Sacrifice, Pt. 1 - Re-Recorded 2022	0.447	0.975	2	-3.995
-5	black	Reborn Paradise	0.463	0.987	7	-4.877
-5	black	Mono No Aware	0.291	0.893	10	-7.917
-5	black	On the Shore of Eternity	0.386	0.782	11	-4.055
-5	black	Slaves Shall Serve	0.226	0.997	5	-7.013
-5	black	Ecclesia	0.277	0.952	7	-3.432
-5	black	Blackest Sabbath 1997	0.199	0.934	6	-5.354
-5	black	Erasure	0.416	0.951	1	-6.072
-5	black	Of Beasts and Worms	0.393	0.983	7	-4.651
-5	black	Momentary Trails	0.368	0.804	7	-8.54
-5	black	Noblesse Oblige Richesse Oblige	0.12	0.968	9	-4.112
-5	black	Riitti	0.189	0.909	5	-6.12
-5	black	Apostle	0.151	0.952	5	-3.994
-5	black	Chapter I: Escape	0.317	0.924	10	-3.781
-5	black	Through Eternal Fields	0.169	0.767	2	-8.069
-5	black	Death Walks Among Us - Single Edit	0.4	0.896	7	-7.479
-5	black	Gehenna	0.412	0.949	9	-8.376
-5	black	Jean Grenier	0.549	0.95	9	-8.931
-5	black	Reflection in Slow Time	0.345	0.561	1	-10.013
-5	black	Part of the End	0.432	0.98	9	-5.047
-5	black	Esaiah	0.49	0.958	8	-5.055
-5	black	Veter	0.381	0.879	5	-6.227
-5	black	We Are Pack	0.344	0.955	0	-5.573
-5	black	The Dregs of Hades	0.504	0.954	6	-5.957
-5	black	Moonflowers Bloom in Misery	0.406	0.439	0	-9.631
-5	black	FN SCAR 16	0.23	0.931	3	-2.345
-5	black	Götterdämmerung	0.483	0.961	4	-3.314
-5	black	Black Fog and Poison Wind	0.372	0.944	2	-6.342
-5	black	Event Horizon	0.446	0.716	7	-7.371
-5	black	Stone That Burns	0.331	0.989	10	-5.715
-5	black	Am Rande der Dunkelheit	0.154	0.973	3	-8.466
-5	black	How Many Tears to Nurture a Rose?	0.395	0.989	1	-6.255
-5	black	Of Blood and Tears	0.478	0.967	5	-3.87
-5	black	Burn the Witch	0.253	0.962	1	-5.699
-5	black	Trance IV: Nemesis	0.259	0.853	0	-6.8
-5	black	The Bride of Corinth	0.561	0.918	7	-5.351
-5	black	Hvítir Sandar	0.139	0.707	8	-7.387
-5	black	Sadist	0.237	0.921	4	-6.684
-5	black	Nauseating Oblivion	0.445	0.953	8	-7.229
-5	black	Chernobyl Blues - Live at Slipper Room	0.124	0.413	4	-12.543
-5	black	Ruun II - The Epitaph	0.366	0.649	1	-9.848
-5	black	Hearts Turn To Stone	0.168	0.917	5	-4.691
-5	black	Mellonta Tauta	0.417	0.89	11	-7.054
-5	black	Diviner	0.331	0.951	4	-3.687
-5	black	Beheading of the Circus Director	0.439	0.974	7	-5.054
-5	black	Whisperer in Darkness	0.449	0.811	2	-12.989
-5	black	Resurgence	0.139	0.962	10	-4.629
-5	black	The Intertwined	0.197	0.624	1	-9.419
-5	black	Reckoning	0.513	0.948	6	-6.965
-5	black	Vargtimman	0.434	0.613	7	-10.301
-5	black	Seance	0.166	0.875	5	-4.637
-5	black	Anadem Gyre	0.412	0.266	1	-14.292
-5	black	The End Times	0.378	0.961	8	-4.979
-5	black	Calendula	0.322	0.893	9	-8.126
-5	black	Dawn Never Breaks	0.432	0.922	11	-6.03
-5	black	The Purest Black	0.215	0.995	9	-3.47
-5	black	Focus	0.533	0.951	6	-6.569
-5	black	Homewards	0.143	0.983	8	-7.345
-5	black	His Masters Voice	0.228	0.847	4	-10.436
-5	black	Corpus Asunder	0.225	0.699	11	-13.929
-5	black	Gudars Skymning	0.41	0.894	0	-4.891
-5	black	The Wolves of Ossory	0.103	0.926	2	-6.118
-5	black	The Head of the Snake	0.219	0.983	6	-6.496
-5	black	Gods of Debauchery	0.462	0.961	7	-5.282
-5	black	Embers	0.426	0.414	11	-10.349
-5	black	Voces Ab Alta	0.131	0.968	3	-6.844
-5	black	When Will Gods Work Be Done	0.471	0.94	3	-5.873
-5	black	End of Message	0.475	0.924	7	-6.184
-5	black	Cursed	0.559	0.979	8	-4.76
