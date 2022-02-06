@@ -1,5 +1,6 @@
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import train_test_split
+from sklearn.metrics import ConfusionMatrixDisplay
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -130,8 +131,12 @@ def plotBestTestSizes(fignum, X, y, neighbor_count, distance_metric, iters):
     plotDictionary(accuracies, "Test sizes", "Accuracy", fignum)
     return bestTestSize
 
-# plotBest (METRIC) cool documentation notes
-# CONFUSION MATRIX: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html for Individual Report.5
+def plotKNNAccuracy(fignum, X, y, colors, knn, best_test_size):
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=best_test_size)
+    knn.fit(X_train, y_train)
+    y_predict = knn.predict(X_test)
+    fig = ConfusionMatrixDisplay.from_predictions(y_test, y_predict)
+    fig.ax_.set_title(fignum)
 
 # Sets up the statistically best heuristic values for the KNN (k, p, & test size), then displays those as plots
 def plotKNNClassificationHeuristics(X, y, y_colors, base_neighbor_count, base_distance_metric, base_test_size):
@@ -155,8 +160,9 @@ def plotKNNClassificationHeuristics(X, y, y_colors, base_neighbor_count, base_di
     print("Distance metric used: " + str(best_distance_metric))
 
     # For Python Script.5
+    # For Individual Report.5
     knn = KNeighborsClassifier(n_neighbors=best_neighbor_count, p=best_distance_metric)
-    # plotKnnAccuracy(X, y, y_colors, knn, best_test_size)
+    plotKNNAccuracy("KNN Confusion Matrix", X, y, y_colors, knn, best_test_size)
 
     print("best neighbor count " + str(best_neighbor_count))
     print("best distance metric " + str(best_distance_metric))
