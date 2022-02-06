@@ -143,7 +143,7 @@ def plotKNNClassificationHeuristics(X, y, y_colors, base_neighbor_count, base_di
     best_neighbor_count = base_neighbor_count
     best_distance_metric = base_distance_metric
     best_test_size = base_test_size
-    ITERS = 1
+    ITERS = 100
     for iterations in range(1,4):
         best_neighbor_count = getBestNeighborCount(X, y, best_distance_metric, best_test_size, ITERS)
         best_distance_metric = getBestDistanceMetric(X, y, best_neighbor_count, best_test_size, ITERS)
