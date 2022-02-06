@@ -57,6 +57,8 @@ def getBestTestSize(X, y, neighbor_count, distance_metric, iters):
 def plotDictionary(dictionary, xlabel, ylabel, fignum):
     print(dictionary)
     plt.figure(fignum)
+    plt.xlabel(xlabel)
+    plt.ylabel(ylabel)
     plt.bar(range(len(dictionary)), list(dictionary.values()), align='center')
     plt.xticks(range(len(dictionary)), list(dictionary.keys()))
 
