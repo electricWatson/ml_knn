@@ -56,7 +56,6 @@ def getBestTestSize(X, y, neighbor_count, distance_metric, iters):
 
 # Plots a dictionaries key value pairs as X,Y points on a bar chart
 def plotDictionary(dictionary, xlabel, ylabel, fignum):
-    print(dictionary)
     plt.figure(fignum)
     plt.xlabel(xlabel)
     plt.ylabel(ylabel)
