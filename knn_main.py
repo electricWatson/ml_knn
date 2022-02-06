@@ -7,7 +7,7 @@ kd.printAttributeCount(kd.X)
 # For Python Script.2a
 kd.printClassDistributions(kd.y)
 # For Python Script.2b
-kd.plotClassDistributions(kd.X, kd.y_colors, 'danceability', 'energy', 'loudness')
+kd.plotClassDistributions("Class Distributions", kd.X, kd.y_colors, 'danceability', 'energy', 'loudness')
 # For Individual Report.3
 kd.printClassStatistics(kd.X)
 

@@ -143,16 +143,19 @@ def plotKNNClassificationHeuristics(X, y, y_colors, base_neighbor_count, base_di
     best_neighbor_count = base_neighbor_count
     best_distance_metric = base_distance_metric
     best_test_size = base_test_size
-    ITERS = 100
+    ITERS = 1
     for iterations in range(1,4):
         best_neighbor_count = getBestNeighborCount(X, y, best_distance_metric, best_test_size, ITERS)
         best_distance_metric = getBestDistanceMetric(X, y, best_neighbor_count, best_test_size, ITERS)
         best_test_size = getBestTestSize(X, y, best_neighbor_count, best_distance_metric, ITERS)
 
     # For Individual Report.5
-    best_neighbor_count = plotBestNeighborCounts(112, X, y, best_distance_metric, best_test_size, ITERS)
-    best_distance_metric = plotBestDistanceMetrics(113, X, y, best_neighbor_count, best_test_size, ITERS)
-    best_test_size = plotBestTestSizes(114, X, y, best_neighbor_count, best_distance_metric, ITERS)
+    best_neighbor_count = plotBestNeighborCounts("Neighbor Count Accuracies (p=" + str(best_distance_metric) + ", ts=" + str(best_test_size) + ")",
+        X, y, best_distance_metric, best_test_size, ITERS)
+    best_distance_metric = plotBestDistanceMetrics("Distance Metric Accuracies (k=" + str(best_neighbor_count) + ", ts=" + str(best_test_size) + ")",
+        X, y, best_neighbor_count, best_test_size, ITERS)
+    best_test_size = plotBestTestSizes("Test Size Accuracies (k=" + str(best_neighbor_count) + ", p=" + str(best_distance_metric) + ")",
+        X, y, best_neighbor_count, best_distance_metric, ITERS)
 
     # For Python Script.3
     print("Test size used: " + str(best_test_size))

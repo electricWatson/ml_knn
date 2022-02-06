@@ -11,9 +11,9 @@ d = dict([(genre, i) for i, genre in enumerate(set(y))])
 # mapping of each genre to an int
 y_colors = [d[genre] for genre in y] 
 
-def plotClassDistributions(x, colors, p1, p2, p3):
-    fig = plt.figure()
-    subplot = fig.add_subplot(111, projection = '3d')
+def plotClassDistributions(fignum, x, colors, p1, p2, p3):
+    fig = plt.figure(fignum)
+    subplot = fig.add_subplot(projection = '3d')
     subplot.scatter(x[p1], x[p2], x[p3], c=colors, marker = 'o', s=100)
     subplot.set_xlabel(p1)
     subplot.set_ylabel(p2)
