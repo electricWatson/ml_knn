@@ -157,6 +157,8 @@ def plotKNNClassificationHeuristics(X, y, y_colors, base_neighbor_count, base_di
     best_test_size = plotBestTestSizes("Test Size Accuracies (k=" + str(best_neighbor_count) + ", p=" + str(best_distance_metric) + ")",
         X, y, best_neighbor_count, best_distance_metric, ITERS)
 
+    # Not for anything in particular, just useful info
+    print("Neighbor count used: " + str(best_neighbor_count))
     # For Python Script.3
     print("Test size used: " + str(best_test_size))
     # For Python Script.4
@@ -167,6 +169,3 @@ def plotKNNClassificationHeuristics(X, y, y_colors, base_neighbor_count, base_di
     knn = KNeighborsClassifier(n_neighbors=best_neighbor_count, p=best_distance_metric)
     plotKNNAccuracy("KNN Confusion Matrix", X, y, y_colors, knn, best_test_size)
 
-    print("best neighbor count " + str(best_neighbor_count))
-    print("best distance metric " + str(best_distance_metric))
-    print("best test size " + str(best_test_size))
