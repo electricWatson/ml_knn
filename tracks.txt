@@ -1,326 +1,324 @@
-track_id	genre	track	danceability	energy	key	loudness
-1	hiphop	Get Ur Freak On	0.797	0.75	0	-9.369
-1	hiphop	Black and Yellow (feat. Juicy J, Snoop Dogg & T-Pain) - G-Mix [G-Mix]	0.697	0.827	7	-4.623
-1	hiphop	Whatever You Like	0.68	0.687	9	-6.162
-1	hiphop	Peaches & Cream (feat. P. Diddy)	0.706	0.537	7	-6.347
-1	hiphop	Get Low	0.521	0.625	1	-7.47
-1	hiphop	Who Dat Girl (feat. Akon)	0.719	0.616	1	-3.951
-1	hiphop	It's Goin' Down (feat. Nitti)	0.888	0.577	1	-7.702
-1	hiphop	Lose Yourself - From "8 Mile" Soundtrack	0.692	0.744	2	-4.565
-1	hiphop	Shimmy Shimmy Ya	0.814	0.481	0	-5.183
-1	hiphop	One Minute Man (feat. Jay-Z) - Remix	0.868	0.624	7	-8.84
-1	hiphop	Hypnotized (feat. Akon)	0.84	0.571	10	-7.421
-1	hiphop	Candy Shop	0.614	0.574	11	-7.961
-1	hiphop	What's Your Fantasy (Featuring Shawna)	0.915	0.79	6	-3.186
-1	hiphop	Ms. Jackson	0.843	0.806	4	-5.946
-1	hiphop	Milkshake	0.881	0.774	1	-6.068
-1	hiphop	Lollipop	0.829	0.428	0	-9.469
-1	hiphop	Good Life	0.456	0.792	1	-6.889
-1	hiphop	Got Your Money (feat. Kelis)	0.934	0.459	1	-7.654
-1	hiphop	Smack That	0.94	0.743	5	-5.166
-1	hiphop	Lighters Up	0.624	0.766	9	-6.31
-1	hiphop	They Want EFX	0.866	0.534	5	-10.407
-1	hiphop	Feel so Good	0.822	0.703	11	-8.464
-1	hiphop	Lose Control (feat. Ciara & Fat Man Scoop)	0.904	0.813	4	-7.105
-1	hiphop	Without Me	0.919	0.657	7	-2.823
-1	hiphop	I Got Love	0.912	0.416	10	-5.943
-1	hiphop	Tell Me When to Go (feat. Keak da Sneak)	0.857	0.751	1	-7.086
-1	hiphop	Superstar (feat. Matthew Santos)	0.572	0.822	11	-6.015
-1	hiphop	What's Luv? (feat. Ja-Rule & Ashanti)	0.835	0.707	8	-5.074
-1	hiphop	Work It	0.884	0.677	1	-5.603
-1	hiphop	Low (feat. T-Pain)	0.918	0.609	10	-5.64
-1	hiphop	What You Know	0.551	0.81	11	-4.365
-1	hiphop	Poppin' Them Thangs	0.769	0.818	6	-1.385
-1	hiphop	Gold Digger	0.629	0.696	1	-5.572
-1	hiphop	Umbrella	0.583	0.829	1	-4.603
-1	hiphop	Hey Ya!	0.715	0.97	0	-2.206
-1	hiphop	Right Round	0.72	0.672	7	-6.852
-1	hiphop	Kick, Push	0.652	0.809	5	-5.276
-1	hiphop	In Da Club	0.899	0.713	6	-2.752
-1	hiphop	Daydreamin' (feat. Jill Scott)	0.533	0.739	5	-3.573
-1	hiphop	Crazy In Love (feat. Jay-Z)	0.646	0.77	2	-6.596
-1	hiphop	Run (I'm a Natural Disaster)	0.494	0.913	4	-3.708
-1	hiphop	Yeah! (feat. Lil Jon & Ludacris)	0.894	0.791	2	-4.699
-1	hiphop	Don't Matter	0.801	0.454	2	-6.035
-1	hiphop	Drop It Like It's Hot	0.892	0.628	1	-3.832
-1	hiphop	Buy U a Drank (Shawty Snappin') (feat. Yung Joc)	0.451	0.55	1	-8.137
-1	hiphop	The Seed (2.0)	0.758	0.957	7	-2.282
-1	hiphop	Crazy	0.835	0.741	8	-1.609
-1	hiphop	Roses	0.751	0.708	0	-5.653
-1	hiphop	Country Grammar (Hot Shit)	0.872	0.673	2	-6.879
-1	hiphop	Mistadobalina	0.85	0.797	10	-7.429
-1	hiphop	Party Up	0.534	0.933	11	-3.282
-1	hiphop	Right Thurr	0.866	0.749	2	-3.977
-1	hiphop	Bump, Bump, Bump (feat. P. Diddy)	0.835	0.68	1	-6.02
-1	hiphop	Let Me Blow Ya Mind	0.905	0.559	1	-4.237
-1	hiphop	Hot In Herre	0.956	0.745	11	-4.753
-1	hiphop	Suga Suga	0.662	0.748	5	-3.041
-1	hiphop	Goodies (feat. Petey Pablo)	0.826	0.647	5	-6.306
-1	hiphop	Oh Boy	0.754	0.767	6	-5.586
-1	hiphop	The Way You Move (feat. Sleepy Brown) - Radio Mix	0.869	0.608	5	-4.866
-1	hiphop	The Real Slim Shady	0.947	0.655	5	-4.243
-1	hiphop	Tipsy - Radio Mix	0.925	0.748	11	-5.572
-1	hiphop	One, Two Step (feat. Missy Elliott)	0.944	0.511	5	-10.96
-1	hiphop	Freek-A-Leek	0.737	0.697	2	-3.716
-1	hiphop	The Way I Are	0.731	0.807	3	-6.492
-1	hiphop	Beautiful Girls	0.762	0.661	1	-6.075
-1	hiphop	Baby, I'm Back	0.901	0.391	9	-4.421
-1	hiphop	Angel	0.743	0.767	6	-2.944
-1	hiphop	Get Busy	0.735	0.824	10	-4.143
-1	hiphop	Get It Shawty	0.822	0.905	5	-4.032
-1	hiphop	Snap Yo Fingers	0.835	0.757	8	-5.029
-2	blackdark	Dream Cull	0.418	0.854	6	-8.717
-2	blackdark	Le cœur noir charbon	0.384	0.921	5	-4.981
-2	blackdark	Worship	0.211	0.939	1	-7.932
-2	blackdark	Sovereign	0.382	0.947	5	-7.979
-2	blackdark	Ner i Mörkret	0.473	0.663	0	-9.665
-2	blackdark	Let the Devil In	0.155	0.94	8	-5.904
-2	blackdark	Szex Witchery	0.224	0.983	6	-6.32
-2	blackdark	The Fall Of Jotunheim	0.449	0.963	11	-6.406
-2	blackdark	Fn .380 Acp#19074	0.35	0.885	5	-4.883
-2	blackdark	Into the Night	0.183	0.5	4	-7.979
-2	blackdark	Valley of Sacrifice, Pt. 1 - Re-Recorded 2022	0.447	0.975	2	-3.995
-2	blackdark	Reborn Paradise	0.463	0.987	7	-4.877
-2	blackdark	Mono No Aware	0.291	0.893	10	-7.917
-2	blackdark	On the Shore of Eternity	0.386	0.782	11	-4.055
-2	blackdark	Slaves Shall Serve	0.226	0.997	5	-7.013
-2	blackdark	Ecclesia	0.277	0.952	7	-3.432
-2	blackdark	Blackest Sabbath 1997	0.199	0.934	6	-5.354
-2	blackdark	Erasure	0.416	0.951	1	-6.072
-2	blackdark	Of Beasts and Worms	0.393	0.983	7	-4.651
-2	blackdark	Momentary Trails	0.368	0.804	7	-8.54
-2	blackdark	Noblesse Oblige Richesse Oblige	0.12	0.968	9	-4.112
-2	blackdark	Riitti	0.189	0.909	5	-6.12
-2	blackdark	Apostle	0.151	0.952	5	-3.994
-2	blackdark	Chapter I: Escape	0.317	0.924	10	-3.781
-2	blackdark	Through Eternal Fields	0.169	0.767	2	-8.069
-2	blackdark	Death Walks Among Us - Single Edit	0.4	0.896	7	-7.479
-2	blackdark	Gehenna	0.412	0.949	9	-8.376
-2	blackdark	Jean Grenier	0.549	0.95	9	-8.931
-2	blackdark	Reflection in Slow Time	0.345	0.561	1	-10.013
-2	blackdark	Part of the End	0.432	0.98	9	-5.047
-2	blackdark	Esaiah	0.49	0.958	8	-5.055
-2	blackdark	Veter	0.381	0.879	5	-6.227
-2	blackdark	We Are Pack	0.344	0.955	0	-5.573
-2	blackdark	The Dregs of Hades	0.504	0.954	6	-5.957
-2	blackdark	Moonflowers Bloom in Misery	0.406	0.439	0	-9.631
-2	blackdark	FN SCAR 16	0.23	0.931	3	-2.345
-2	blackdark	Götterdämmerung	0.483	0.961	4	-3.314
-2	blackdark	Black Fog and Poison Wind	0.372	0.944	2	-6.342
-2	blackdark	Event Horizon	0.446	0.716	7	-7.371
-2	blackdark	Stone That Burns	0.331	0.989	10	-5.715
-2	blackdark	Am Rande der Dunkelheit	0.154	0.973	3	-8.466
-2	blackdark	How Many Tears to Nurture a Rose?	0.395	0.989	1	-6.255
-2	blackdark	Of Blood and Tears	0.478	0.967	5	-3.87
-2	blackdark	Burn the Witch	0.253	0.962	1	-5.699
-2	blackdark	Trance IV: Nemesis	0.259	0.853	0	-6.8
-2	blackdark	The Bride of Corinth	0.561	0.918	7	-5.351
-2	blackdark	Hvítir Sandar	0.139	0.707	8	-7.387
-2	blackdark	Sadist	0.237	0.921	4	-6.684
-2	blackdark	Nauseating Oblivion	0.445	0.953	8	-7.229
-2	blackdark	Chernobyl Blues - Live at Slipper Room	0.124	0.413	4	-12.543
-2	blackdark	Ruun II - The Epitaph	0.366	0.649	1	-9.848
-2	blackdark	Hearts Turn To Stone	0.168	0.917	5	-4.691
-2	blackdark	Mellonta Tauta	0.417	0.89	11	-7.054
-2	blackdark	Diviner	0.331	0.951	4	-3.687
-2	blackdark	Beheading of the Circus Director	0.439	0.974	7	-5.054
-2	blackdark	Whisperer in Darkness	0.449	0.811	2	-12.989
-2	blackdark	Resurgence	0.139	0.962	10	-4.629
-2	blackdark	The Intertwined	0.197	0.624	1	-9.419
-2	blackdark	Ethnogenese	0.358	0.965	2	-9.044
-2	blackdark	Reckoning	0.513	0.948	6	-6.965
-2	blackdark	Vargtimman	0.434	0.613	7	-10.301
-2	blackdark	Seance	0.166	0.875	5	-4.637
-2	blackdark	Anadem Gyre	0.412	0.266	1	-14.292
-2	blackdark	The End Times	0.378	0.961	8	-4.979
-2	blackdark	Calendula	0.322	0.893	9	-8.126
-2	blackdark	Dawn Never Breaks	0.432	0.922	11	-6.03
-2	blackdark	The Purest Black	0.215	0.995	9	-3.47
-2	blackdark	Focus	0.533	0.951	6	-6.569
-2	blackdark	Homewards	0.143	0.983	8	-7.345
-2	blackdark	His Masters Voice	0.228	0.847	4	-10.436
-2	blackdark	Corpus Asunder	0.225	0.699	11	-13.929
-2	blackdark	Gudars Skymning	0.41	0.894	0	-4.891
-2	blackdark	The Wolves of Ossory	0.103	0.926	2	-6.118
-2	blackdark	The Head of the Snake	0.219	0.983	6	-6.496
-2	blackdark	Gods of Debauchery	0.462	0.961	7	-5.282
-2	blackdark	Embers	0.426	0.414	11	-10.349
-2	blackdark	Voces Ab Alta	0.131	0.968	3	-6.844
-2	blackdark	When Will Gods Work Be Done	0.471	0.94	3	-5.873
-2	blackdark	End of Message	0.475	0.924	7	-6.184
-2	blackdark	Cursed	0.559	0.979	8	-4.76
-2	blackdark	Wilde Kinder	0.407	0.957	8	-3.553
-2	blackdark	Elle se répète froidement	0.374	0.871	5	-4.448
-3	lofi	High Flying	0.673	0.252	8	-15.823
-3	lofi	Sleepless	0.697	0.395	10	-13.56
-3	lofi	Serene	0.71	0.176	0	-13.619
-3	lofi	Inner Echoes	0.629	0.0691	2	-19.983
-3	lofi	Nightingale	0.638	0.0415	7	-18.086
-3	lofi	Azure	0.611	0.0886	8	-20.659
-3	lofi	Green Fields	0.535	0.0734	9	-23.44
-3	lofi	Equilibrium	0.568	0.384	1	-12.1
-3	lofi	Fly High	0.458	0.12	4	-17.212
-3	lofi	Hidden Path	0.622	0.0843	7	-20.725
-3	lofi	By Your Side	0.7	0.162	5	-15.111
-3	lofi	Massa	0.74	0.0694	10	-19.463
-3	lofi	Outside For A While	0.385	0.114	7	-21.857
-3	lofi	Stardust	0.504	0.216	4	-14.808
-3	lofi	miss you	0.61	0.172	2	-14.957
-3	lofi	Moonlight	0.48	0.0936	1	-19.355
-3	lofi	Friday	0.734	0.277	10	-14.752
-3	lofi	Folding In	0.604	0.136	5	-20.613
-3	lofi	In Love With The Sky	0.749	0.312	4	-8.806
-3	lofi	Passage	0.685	0.265	1	-13.652
-3	lofi	Angelic Particles	0.645	0.179	4	-10.737
-3	lofi	The Place Where I Belong	0.489	0.154	0	-20.709
-3	lofi	Summer Rain	0.715	0.396	4	-12.743
-3	lofi	Holnap	0.36	0.259	2	-19.784
-3	lofi	Just Another Day	0.642	0.149	6	-13.639
-3	lofi	morning getaway	0.646	0.0668	11	-19.129
-3	lofi	Circle	0.618	0.199	2	-14.652
-3	lofi	Fruit Loom	0.657	0.00453	4	-28.859
-3	lofi	Morning Brew	0.577	0.251	2	-20.64
-3	lofi	skyblue	0.708	0.241	10	-16.697
-3	lofi	Shibui	0.717	0.353	9	-11.09
-3	lofi	Underbelly	0.465	0.257	11	-12.279
-3	lofi	Intersection	0.626	0.185	5	-14.467
-3	lofi	I'm Sorry	0.798	0.3	2	-14.176
-3	lofi	A Little Help	0.656	0.0388	4	-26.74
-3	lofi	Reflections	0.674	0.229	6	-14.152
-3	lofi	Patterns	0.484	0.0731	0	-21.139
-3	lofi	Childlike Wonder	0.7	0.218	2	-12.003
-3	lofi	Insides	0.678	0.212	2	-22.558
-3	lofi	harbor	0.665	0.226	10	-22.138
-3	lofi	Find Your Way	0.639	0.183	11	-16.428
-3	lofi	Cold Sting In The Wind	0.601	0.0109	4	-26.249
-3	lofi	Prinsessealleen	0.642	0.157	1	-17.671
-3	lofi	Busyland	0.621	0.206	9	-14.484
-3	lofi	Wander	0.604	0.289	8	-12.126
-3	lofi	Rainy Day	0.63	0.224	10	-16.469
-3	lofi	Nostalgic	0.654	0.127	0	-15.116
-3	lofi	take it easy	0.724	0.171	2	-17.18
-3	lofi	Serenity	0.343	0.0217	1	-25.782
-3	lofi	Equinox	0.59	0.242	9	-15.084
-3	lofi	Through Your Eyes	0.676	0.0733	9	-19.093
-3	lofi	Dreaming	0.241	0.188	7	-20.916
-3	lofi	Orange Sea	0.533	0.126	2	-20.326
-3	lofi	Mr. Espresso	0.704	0.00857	2	-27.849
-3	lofi	Parallel Worlds	0.509	0.277	11	-14.504
-3	lofi	Fancy Brew	0.649	0.305	3	-11.552
-3	lofi	Oboro, 5 Am	0.641	0.141	5	-15.046
-3	lofi	Life Aquatic	0.668	0.145	1	-13.591
-3	lofi	Favorite Band	0.6	0.197	0	-18.407
-3	lofi	good friends	0.711	0.233	8	-18.406
-3	lofi	Oh, Buddy	0.697	0.185	10	-15.746
-3	lofi	Cloudy Springs	0.574	0.0863	9	-23.725
-3	lofi	Takeoff	0.576	0.155	5	-17.657
-3	lofi	Willow	0.356	0.344	8	-15.354
-3	lofi	City Nights	0.477	0.158	8	-18.986
-3	lofi	holding	0.796	0.295	9	-15.099
-3	lofi	Blue Camel	0.66	0.057	10	-25.467
-3	lofi	94	0.694	0.354	4	-10.701
-3	lofi	Mockingbird	0.514	0.185	1	-18.251
-3	lofi	takeoff	0.562	0.0864	11	-18.521
-3	lofi	Close to Me	0.697	0.167	0	-20.461
-3	lofi	faraway	0.425	0.269	0	-17.815
-3	lofi	in silence	0.597	0.151	6	-17.787
-3	lofi	Midnight Journey	0.753	0.0844	1	-16.425
-3	lofi	Silhouettes	0.66	0.276	0	-17.616
-3	lofi	I'll Be There	0.674	0.11	8	-21.421
-3	lofi	After The Rain	0.713	0.188	4	-16.345
-3	lofi	Reverie	0.62	0.087	1	-22.034
-3	lofi	beauty in everything	0.752	0.0322	8	-18.158
-3	lofi	Old Friend	0.59	0.0566	11	-21.314
-3	lofi	Moving In	0.678	0.21	0	-12.309
-3	lofi	Down In The Valley	0.499	0.136	4	-13.341
-3	lofi	After The Rain	0.493	0.149	8	-18.113
-3	lofi	Tender	0.555	0.338	2	-12.993
-3	lofi	Deep Dive	0.57	0.188	5	-14.477
-3	lofi	Simplicity	0.694	0.343	11	-11.167
-3	lofi	Ocean Sunset	0.669	0.301	1	-14.349
-3	lofi	Old Feelings	0.551	0.154	1	-12.87
-3	lofi	fuji	0.64	0.0798	8	-22.639
-3	lofi	Field Trip	0.606	0.206	11	-16.968
-3	lofi	Hue	0.696	0.178	0	-11.514
-3	lofi	seashore thoughts	0.574	0.274	1	-18.559
-3	lofi	Monday	0.656	0.413	1	-14.953
-3	lofi	Morning Dew	0.633	0.224	1	-16.403
-3	lofi	Rooftop Memories	0.369	0.288	8	-14.527
-3	lofi	Arizona Night	0.67	0.176	8	-21.427
-3	lofi	Maya	0.364	0.155	9	-19.184
-3	lofi	High Sun	0.547	0.246	6	-13.914
-3	lofi	Crisp Breaths	0.613	0.0379	8	-19.715
-3	lofi	Bright Lights	0.537	0.251	1	-14.89
-4	doom	Hopkins (The Witchfinder General)	0.31	0.957	0	-6.311
-4	doom	And My Father Left Forever	0.392	0.783	1	-6.631
-4	doom	Materie	0.453	0.605	0	-8.844
-4	doom	The Ghost I Used to Be	0.317	0.706	5	-6.046
-4	doom	Beyond the Shores (Excerpt III)	0.4	0.718	0	-6.308
-4	doom	Gallows Bird	0.156	0.332	5	-9.623
-4	doom	The Last Way	0.418	0.681	11	-11.583
-4	doom	Path of Tombs	0.385	0.612	4	-9.352
-4	doom	Your Broken Shore	0.406	0.676	4	-9.485
-4	doom	Medusa	0.369	0.869	9	-6.48
-4	doom	Rite of Passage	0.309	0.752	5	-6.108
-4	doom	There Is Only One Season	0.391	0.399	4	-9.912
-4	doom	The Seer	0.213	0.636	6	-8.29
-4	doom	Rise	0.372	0.861	2	-6.115
-4	doom	Dying Signal	0.43	0.931	7	-7.073
-4	doom	Centuries Asleep	0.418	0.931	4	-4.97
-4	doom	Christ Goodbye	0.262	0.446	9	-12.753
-4	doom	Solitude	0.247	0.738	6	-4.706
-4	doom	Avanturine	0.486	0.55	11	-8.349
-4	doom	Thunderhoof	0.207	0.562	6	-7.658
-4	doom	Mountain Stomp	0.208	0.988	7	-3.94
-4	doom	Devils Light	0.471	0.947	10	-5.902
-4	doom	The Thing That Made Search	0.332	0.468	0	-7.581
-4	doom	Gravity Chasm	0.298	0.641	8	-12.499
-4	doom	Indoctrinate The Priestess	0.26	0.759	5	-8.661
-4	doom	Tormented	0.41	0.48	9	-6.818
-4	doom	Doom Over The World - Remix	0.317	0.944	1	-6.488
-4	doom	The Will To Die	0.352	0.763	4	-5.833
-4	doom	Sanguine	0.193	0.524	4	-3.88
-4	doom	A Cruel Taste of Winter	0.399	0.86	9	-8.394
-4	doom	Chernaya Dyra (the Black Hole)	0.265	0.768	2	-7.311
-4	doom	The Answer	0.253	0.927	6	-4.555
-4	doom	Aura	0.195	0.675	6	-7.334
-4	doom	There Is a Serpent Coming	0.0703	0.502	6	-6.983
-4	doom	Out of This Gloomy Light	0.364	0.795	0	-3.876
-4	doom	A Kiss to Remember	0.165	0.603	9	-8.716
-4	doom	Battle In The Swamp	0.491	0.729	10	-9.241
-4	doom	Come Daemons	0.33	0.814	6	-8.479
-4	doom	For the Heartless	0.293	0.805	7	-4.495
-4	doom	Evst	0.428	0.892	0	-5.346
-4	doom	Footprints	0.2	0.547	8	-5.779
-4	doom	Nothingness	0.317	0.413	4	-10.209
-4	doom	Shining Human Skin	0.381	0.903	7	-2.646
-4	doom	Trust	0.26	0.724	10	-6.104
-4	doom	One Last Smoke	0.316	0.697	0	-4.32
-4	doom	Veil	0.197	0.656	6	-11.741
-4	doom	Journey	0.088	0.446	2	-7.076
-4	doom	Moonhorse	0.256	0.613	5	-5.889
-4	doom	Tunnels	0.323	0.499	11	-8.695
-4	doom	The Dead Leaf Echo	0.375	0.769	10	-5.996
-4	doom	Scent Of Death	0.174	0.569	7	-7.149
-4	doom	Raven Nor the Spirit	0.412	0.609	0	-7.549
-4	doom	The Self-Made Man	0.294	0.679	10	-5.322
-4	doom	Release Me	0.444	0.808	6	-9.882
-4	doom	Theories of old bones	0.239	0.481	1	-7.659
-4	doom	Sirens	0.51	0.642	5	-8.773
-4	doom	Unmask the Spectre	0.326	0.463	0	-11.006
-4	doom	From the Dark	0.288	0.841	7	-4.918
-4	doom	Among the Falling Stones	0.268	0.686	2	-6.623
-4	doom	Silent Tomorrow	0.182	0.545	3	-8.081
-4	doom	Atlas Of Sorrow	0.242	0.698	4	-7.061
-4	doom	I Refuse These Ashes	0.236	0.413	7	-7.458
-4	doom	Song of Autumn	0.518	0.554	4	-11.649
-4	doom	The Time Lord	0.335	0.904	9	-3.883
-4	doom	To Reap Heavens Apart	0.182	0.612	10	-6.583
-4	doom	Lover´s Grief	0.204	0.527	5	-10.248
-4	doom	El Sueño del Condor	0.274	0.744	7	-8.191
-4	doom	The Gathering of Witches	0.16	0.903	7	-3.063
-4	doom	Cromwell	0.505	0.925	11	-5.865
-4	doom	III	0.274	0.419	8	-9.847
-4	doom	The Catechism of Depression	0.126	0.263	5	-8.638
-4	doom	Born Too Late	0.222	0.341	8	-15.308
-4	doom	Bottled Insanity	0.456	0.975	1	-5.374
+track_id	genre	track	danceability	energy	key	loudness	
+1	hiphop	Get Ur Freak On	0.797	0.75	0	-9.369	FALSE
+1	hiphop	Black and Yellow (feat. Juicy J, Snoop Dogg & T-Pain) - G-Mix [G-Mix]	0.697	0.827	7	-4.623	
+1	hiphop	Whatever You Like	0.68	0.687	9	-6.162	
+1	hiphop	Peaches & Cream (feat. P. Diddy)	0.706	0.537	7	-6.347	
+1	hiphop	Get Low	0.521	0.625	1	-7.47	
+1	hiphop	Who Dat Girl (feat. Akon)	0.719	0.616	1	-3.951	
+1	hiphop	It's Goin' Down (feat. Nitti)	0.888	0.577	1	-7.702	
+1	hiphop	Lose Yourself - From "8 Mile" Soundtrack	0.692	0.744	2	-4.565	
+1	hiphop	Shimmy Shimmy Ya	0.814	0.481	0	-5.183	
+1	hiphop	One Minute Man (feat. Jay-Z) - Remix	0.868	0.624	7	-8.84	
+1	hiphop	Hypnotized (feat. Akon)	0.84	0.571	10	-7.421	
+1	hiphop	Candy Shop	0.614	0.574	11	-7.961	
+1	hiphop	What's Your Fantasy (Featuring Shawna)	0.915	0.79	6	-3.186	
+1	hiphop	Ms. Jackson	0.843	0.806	4	-5.946	
+1	hiphop	Milkshake	0.881	0.774	1	-6.068	
+1	hiphop	Lollipop	0.829	0.428	0	-9.469	
+1	hiphop	Good Life	0.456	0.792	1	-6.889	
+1	hiphop	Got Your Money (feat. Kelis)	0.934	0.459	1	-7.654	
+1	hiphop	Smack That	0.94	0.743	5	-5.166	
+1	hiphop	Lighters Up	0.624	0.766	9	-6.31	
+1	hiphop	They Want EFX	0.866	0.534	5	-10.407	
+1	hiphop	Feel so Good	0.822	0.703	11	-8.464	
+1	hiphop	Lose Control (feat. Ciara & Fat Man Scoop)	0.904	0.813	4	-7.105	
+1	hiphop	Without Me	0.919	0.657	7	-2.823	
+1	hiphop	I Got Love	0.912	0.416	10	-5.943	
+1	hiphop	Tell Me When to Go (feat. Keak da Sneak)	0.857	0.751	1	-7.086	
+1	hiphop	Superstar (feat. Matthew Santos)	0.572	0.822	11	-6.015	
+1	hiphop	What's Luv? (feat. Ja-Rule & Ashanti)	0.835	0.707	8	-5.074	
+1	hiphop	Work It	0.884	0.677	1	-5.603	
+1	hiphop	Low (feat. T-Pain)	0.918	0.609	10	-5.64	
+1	hiphop	What You Know	0.551	0.81	11	-4.365	
+1	hiphop	Poppin' Them Thangs	0.769	0.818	6	-1.385	
+1	hiphop	Gold Digger	0.629	0.696	1	-5.572	
+1	hiphop	Umbrella	0.583	0.829	1	-4.603	
+1	hiphop	Hey Ya!	0.715	0.97	0	-2.206	
+1	hiphop	Right Round	0.72	0.672	7	-6.852	
+1	hiphop	Kick, Push	0.652	0.809	5	-5.276	
+1	hiphop	In Da Club	0.899	0.713	6	-2.752	
+1	hiphop	Daydreamin' (feat. Jill Scott)	0.533	0.739	5	-3.573	
+1	hiphop	Crazy In Love (feat. Jay-Z)	0.646	0.77	2	-6.596	
+1	hiphop	Run (I'm a Natural Disaster)	0.494	0.913	4	-3.708	
+1	hiphop	Yeah! (feat. Lil Jon & Ludacris)	0.894	0.791	2	-4.699	
+1	hiphop	Don't Matter	0.801	0.454	2	-6.035	
+1	hiphop	Drop It Like It's Hot	0.892	0.628	1	-3.832	
+1	hiphop	Buy U a Drank (Shawty Snappin') (feat. Yung Joc)	0.451	0.55	1	-8.137	
+1	hiphop	The Seed (2.0)	0.758	0.957	7	-2.282	
+1	hiphop	Crazy	0.835	0.741	8	-1.609	
+1	hiphop	Roses	0.751	0.708	0	-5.653	
+1	hiphop	Country Grammar (Hot Shit)	0.872	0.673	2	-6.879	
+1	hiphop	Mistadobalina	0.85	0.797	10	-7.429	
+1	hiphop	Party Up	0.534	0.933	11	-3.282	
+1	hiphop	Right Thurr	0.866	0.749	2	-3.977	
+1	hiphop	Bump, Bump, Bump (feat. P. Diddy)	0.835	0.68	1	-6.02	
+1	hiphop	Let Me Blow Ya Mind	0.905	0.559	1	-4.237	
+1	hiphop	Hot In Herre	0.956	0.745	11	-4.753	
+1	hiphop	Suga Suga	0.662	0.748	5	-3.041	
+1	hiphop	Goodies (feat. Petey Pablo)	0.826	0.647	5	-6.306	
+1	hiphop	Oh Boy	0.754	0.767	6	-5.586	
+1	hiphop	The Way You Move (feat. Sleepy Brown) - Radio Mix	0.869	0.608	5	-4.866	
+1	hiphop	The Real Slim Shady	0.947	0.655	5	-4.243	
+1	hiphop	Tipsy - Radio Mix	0.925	0.748	11	-5.572	
+1	hiphop	One, Two Step (feat. Missy Elliott)	0.944	0.511	5	-10.96	
+1	hiphop	Freek-A-Leek	0.737	0.697	2	-3.716	
+1	hiphop	The Way I Are	0.731	0.807	3	-6.492	
+1	hiphop	Beautiful Girls	0.762	0.661	1	-6.075	
+1	hiphop	Baby, I'm Back	0.901	0.391	9	-4.421	
+1	hiphop	Angel	0.743	0.767	6	-2.944	
+1	hiphop	Get Busy	0.735	0.824	10	-4.143	
+1	hiphop	Get It Shawty	0.822	0.905	5	-4.032	
+1	hiphop	Snap Yo Fingers	0.835	0.757	8	-5.029	
+3	lofi	High Flying	0.673	0.252	8	-15.823	
+3	lofi	Sleepless	0.697	0.395	10	-13.56	
+3	lofi	Serene	0.71	0.176	0	-13.619	
+3	lofi	Inner Echoes	0.629	0.0691	2	-19.983	
+3	lofi	Nightingale	0.638	0.0415	7	-18.086	
+3	lofi	Azure	0.611	0.0886	8	-20.659	
+3	lofi	Green Fields	0.535	0.0734	9	-23.44	
+3	lofi	Equilibrium	0.568	0.384	1	-12.1	
+3	lofi	Fly High	0.458	0.12	4	-17.212	
+3	lofi	Hidden Path	0.622	0.0843	7	-20.725	
+3	lofi	By Your Side	0.7	0.162	5	-15.111	
+3	lofi	Massa	0.74	0.0694	10	-19.463	
+3	lofi	Outside For A While	0.385	0.114	7	-21.857	
+3	lofi	Stardust	0.504	0.216	4	-14.808	
+3	lofi	miss you	0.61	0.172	2	-14.957	
+3	lofi	Moonlight	0.48	0.0936	1	-19.355	
+3	lofi	Friday	0.734	0.277	10	-14.752	
+3	lofi	Folding In	0.604	0.136	5	-20.613	
+3	lofi	In Love With The Sky	0.749	0.312	4	-8.806	
+3	lofi	Passage	0.685	0.265	1	-13.652	
+3	lofi	Angelic Particles	0.645	0.179	4	-10.737	
+3	lofi	The Place Where I Belong	0.489	0.154	0	-20.709	
+3	lofi	Summer Rain	0.715	0.396	4	-12.743	
+3	lofi	Holnap	0.36	0.259	2	-19.784	
+3	lofi	Just Another Day	0.642	0.149	6	-13.639	
+3	lofi	morning getaway	0.646	0.0668	11	-19.129	
+3	lofi	Circle	0.618	0.199	2	-14.652	
+3	lofi	Fruit Loom	0.657	0.00453	4	-28.859	
+3	lofi	Morning Brew	0.577	0.251	2	-20.64	
+3	lofi	skyblue	0.708	0.241	10	-16.697	
+3	lofi	Shibui	0.717	0.353	9	-11.09	
+3	lofi	Underbelly	0.465	0.257	11	-12.279	
+3	lofi	Intersection	0.626	0.185	5	-14.467	
+3	lofi	I'm Sorry	0.798	0.3	2	-14.176	
+3	lofi	A Little Help	0.656	0.0388	4	-26.74	
+3	lofi	Reflections	0.674	0.229	6	-14.152	
+3	lofi	Patterns	0.484	0.0731	0	-21.139	
+3	lofi	Childlike Wonder	0.7	0.218	2	-12.003	
+3	lofi	Insides	0.678	0.212	2	-22.558	
+3	lofi	harbor	0.665	0.226	10	-22.138	
+3	lofi	Find Your Way	0.639	0.183	11	-16.428	
+3	lofi	Cold Sting In The Wind	0.601	0.0109	4	-26.249	
+3	lofi	Prinsessealleen	0.642	0.157	1	-17.671	
+3	lofi	Busyland	0.621	0.206	9	-14.484	
+3	lofi	Wander	0.604	0.289	8	-12.126	
+3	lofi	Rainy Day	0.63	0.224	10	-16.469	
+3	lofi	Nostalgic	0.654	0.127	0	-15.116	
+3	lofi	take it easy	0.724	0.171	2	-17.18	
+3	lofi	Serenity	0.343	0.0217	1	-25.782	
+3	lofi	Equinox	0.59	0.242	9	-15.084	
+3	lofi	Through Your Eyes	0.676	0.0733	9	-19.093	
+3	lofi	Dreaming	0.241	0.188	7	-20.916	
+3	lofi	Orange Sea	0.533	0.126	2	-20.326	
+3	lofi	Mr. Espresso	0.704	0.00857	2	-27.849	
+3	lofi	Parallel Worlds	0.509	0.277	11	-14.504	
+3	lofi	Fancy Brew	0.649	0.305	3	-11.552	
+3	lofi	Oboro, 5 Am	0.641	0.141	5	-15.046	
+3	lofi	Life Aquatic	0.668	0.145	1	-13.591	
+3	lofi	Favorite Band	0.6	0.197	0	-18.407	
+3	lofi	good friends	0.711	0.233	8	-18.406	
+3	lofi	Oh, Buddy	0.697	0.185	10	-15.746	
+3	lofi	Cloudy Springs	0.574	0.0863	9	-23.725	
+3	lofi	Takeoff	0.576	0.155	5	-17.657	
+3	lofi	Willow	0.356	0.344	8	-15.354	
+3	lofi	City Nights	0.477	0.158	8	-18.986	
+3	lofi	holding	0.796	0.295	9	-15.099	
+3	lofi	Blue Camel	0.66	0.057	10	-25.467	
+3	lofi	94	0.694	0.354	4	-10.701	
+3	lofi	Mockingbird	0.514	0.185	1	-18.251	
+3	lofi	takeoff	0.562	0.0864	11	-18.521	
+3	lofi	Close to Me	0.697	0.167	0	-20.461	
+3	lofi	faraway	0.425	0.269	0	-17.815	
+3	lofi	in silence	0.597	0.151	6	-17.787	
+3	lofi	Midnight Journey	0.753	0.0844	1	-16.425	
+3	lofi	Silhouettes	0.66	0.276	0	-17.616	
+3	lofi	I'll Be There	0.674	0.11	8	-21.421	
+3	lofi	After The Rain	0.713	0.188	4	-16.345	
+3	lofi	Reverie	0.62	0.087	1	-22.034	
+3	lofi	beauty in everything	0.752	0.0322	8	-18.158	
+3	lofi	Old Friend	0.59	0.0566	11	-21.314	
+3	lofi	Moving In	0.678	0.21	0	-12.309	
+3	lofi	Down In The Valley	0.499	0.136	4	-13.341	
+3	lofi	After The Rain	0.493	0.149	8	-18.113	
+3	lofi	Tender	0.555	0.338	2	-12.993	
+3	lofi	Deep Dive	0.57	0.188	5	-14.477	
+3	lofi	Simplicity	0.694	0.343	11	-11.167	
+3	lofi	Ocean Sunset	0.669	0.301	1	-14.349	
+3	lofi	Old Feelings	0.551	0.154	1	-12.87	
+3	lofi	fuji	0.64	0.0798	8	-22.639	
+3	lofi	Field Trip	0.606	0.206	11	-16.968	
+3	lofi	Hue	0.696	0.178	0	-11.514	
+3	lofi	seashore thoughts	0.574	0.274	1	-18.559	
+3	lofi	Monday	0.656	0.413	1	-14.953	
+3	lofi	Morning Dew	0.633	0.224	1	-16.403	
+3	lofi	Rooftop Memories	0.369	0.288	8	-14.527	
+3	lofi	Arizona Night	0.67	0.176	8	-21.427	
+3	lofi	Maya	0.364	0.155	9	-19.184	
+3	lofi	High Sun	0.547	0.246	6	-13.914	
+3	lofi	Crisp Breaths	0.613	0.0379	8	-19.715	
+3	lofi	Bright Lights	0.537	0.251	1	-14.89	
+4	doom	Hopkins (The Witchfinder General)	0.31	0.957	0	-6.311	
+4	doom	And My Father Left Forever	0.392	0.783	1	-6.631	
+4	doom	Materie	0.453	0.605	0	-8.844	
+4	doom	The Ghost I Used to Be	0.317	0.706	5	-6.046	
+4	doom	Beyond the Shores (Excerpt III)	0.4	0.718	0	-6.308	
+4	doom	Gallows Bird	0.156	0.332	5	-9.623	
+4	doom	The Last Way	0.418	0.681	11	-11.583	
+4	doom	Path of Tombs	0.385	0.612	4	-9.352	
+4	doom	Your Broken Shore	0.406	0.676	4	-9.485	
+4	doom	Medusa	0.369	0.869	9	-6.48	
+4	doom	Rite of Passage	0.309	0.752	5	-6.108	
+4	doom	There Is Only One Season	0.391	0.399	4	-9.912	
+4	doom	The Seer	0.213	0.636	6	-8.29	
+4	doom	Rise	0.372	0.861	2	-6.115	
+4	doom	Dying Signal	0.43	0.931	7	-7.073	
+4	doom	Centuries Asleep	0.418	0.931	4	-4.97	
+4	doom	Christ Goodbye	0.262	0.446	9	-12.753	
+4	doom	Solitude	0.247	0.738	6	-4.706	
+4	doom	Avanturine	0.486	0.55	11	-8.349	
+4	doom	Thunderhoof	0.207	0.562	6	-7.658	
+4	doom	Mountain Stomp	0.208	0.988	7	-3.94	
+4	doom	Devils Light	0.471	0.947	10	-5.902	
+4	doom	The Thing That Made Search	0.332	0.468	0	-7.581	
+4	doom	Gravity Chasm	0.298	0.641	8	-12.499	
+4	doom	Indoctrinate The Priestess	0.26	0.759	5	-8.661	
+4	doom	Tormented	0.41	0.48	9	-6.818	
+4	doom	Doom Over The World - Remix	0.317	0.944	1	-6.488	
+4	doom	The Will To Die	0.352	0.763	4	-5.833	
+4	doom	Sanguine	0.193	0.524	4	-3.88	
+4	doom	A Cruel Taste of Winter	0.399	0.86	9	-8.394	
+4	doom	Chernaya Dyra (the Black Hole)	0.265	0.768	2	-7.311	
+4	doom	The Answer	0.253	0.927	6	-4.555	
+4	doom	Aura	0.195	0.675	6	-7.334	
+4	doom	There Is a Serpent Coming	0.0703	0.502	6	-6.983	
+4	doom	Out of This Gloomy Light	0.364	0.795	0	-3.876	
+4	doom	A Kiss to Remember	0.165	0.603	9	-8.716	
+4	doom	Battle In The Swamp	0.491	0.729	10	-9.241	
+4	doom	Come Daemons	0.33	0.814	6	-8.479	
+4	doom	For the Heartless	0.293	0.805	7	-4.495	
+4	doom	Evst	0.428	0.892	0	-5.346	
+4	doom	Footprints	0.2	0.547	8	-5.779	
+4	doom	Nothingness	0.317	0.413	4	-10.209	
+4	doom	Shining Human Skin	0.381	0.903	7	-2.646	
+4	doom	Trust	0.26	0.724	10	-6.104	
+4	doom	One Last Smoke	0.316	0.697	0	-4.32	
+4	doom	Veil	0.197	0.656	6	-11.741	
+4	doom	Journey	0.088	0.446	2	-7.076	
+4	doom	Moonhorse	0.256	0.613	5	-5.889	
+4	doom	Tunnels	0.323	0.499	11	-8.695	
+4	doom	The Dead Leaf Echo	0.375	0.769	10	-5.996	
+4	doom	Scent Of Death	0.174	0.569	7	-7.149	
+4	doom	Raven Nor the Spirit	0.412	0.609	0	-7.549	
+4	doom	The Self-Made Man	0.294	0.679	10	-5.322	
+4	doom	Release Me	0.444	0.808	6	-9.882	
+4	doom	Theories of old bones	0.239	0.481	1	-7.659	
+4	doom	Sirens	0.51	0.642	5	-8.773	
+4	doom	Unmask the Spectre	0.326	0.463	0	-11.006	
+4	doom	From the Dark	0.288	0.841	7	-4.918	
+4	doom	Among the Falling Stones	0.268	0.686	2	-6.623	
+4	doom	Silent Tomorrow	0.182	0.545	3	-8.081	
+4	doom	Atlas Of Sorrow	0.242	0.698	4	-7.061	
+4	doom	I Refuse These Ashes	0.236	0.413	7	-7.458	
+4	doom	Song of Autumn	0.518	0.554	4	-11.649	
+4	doom	The Time Lord	0.335	0.904	9	-3.883	
+4	doom	To Reap Heavens Apart	0.182	0.612	10	-6.583	
+4	doom	Lover´s Grief	0.204	0.527	5	-10.248	
+4	doom	El Sueño del Condor	0.274	0.744	7	-8.191	
+4	doom	The Gathering of Witches	0.16	0.903	7	-3.063	
+4	doom	Cromwell	0.505	0.925	11	-5.865	
+4	doom	III	0.274	0.419	8	-9.847	
+4	doom	The Catechism of Depression	0.126	0.263	5	-8.638	
+4	doom	Born Too Late	0.222	0.341	8	-15.308	
+4	doom	Bottled Insanity	0.456	0.975	1	-5.374	
+5	black	Ner i Mörkret	0.473	0.663	0	-9.665	
+5	black	Dream Cull	0.418	0.854	6	-8.717	
+5	black	Sovereign	0.382	0.947	5	-7.979	
+5	black	Worship	0.211	0.939	1	-7.932	
+5	black	Wilde Kinder	0.407	0.957	8	-3.553	
+5	black	Let the Devil In	0.155	0.94	8	-5.904	
+5	black	Szex Witchery	0.224	0.983	6	-6.32	
+5	black	Elle se répète froidement	0.374	0.871	5	-4.448	
+5	black	The Fall Of Jotunheim	0.449	0.963	11	-6.406	
+5	black	Fn .380 Acp#19074	0.35	0.885	5	-4.883	
+5	black	Into the Night	0.183	0.5	4	-7.979	
+5	black	Valley of Sacrifice, Pt. 1 - Re-Recorded 2022	0.447	0.975	2	-3.995	
+5	black	Reborn Paradise	0.463	0.987	7	-4.877	
+5	black	Mono No Aware	0.291	0.893	10	-7.917	
+5	black	On the Shore of Eternity	0.386	0.782	11	-4.055	
+5	black	Slaves Shall Serve	0.226	0.997	5	-7.013	
+5	black	Ecclesia	0.277	0.952	7	-3.432	
+5	black	Blackest Sabbath 1997	0.199	0.934	6	-5.354	
+5	black	Erasure	0.416	0.951	1	-6.072	
+5	black	Of Beasts and Worms	0.393	0.983	7	-4.651	
+5	black	Momentary Trails	0.368	0.804	7	-8.54	
+5	black	Noblesse Oblige Richesse Oblige	0.12	0.968	9	-4.112	
+5	black	Riitti	0.189	0.909	5	-6.12	
+5	black	Apostle	0.151	0.952	5	-3.994	
+5	black	Chapter I: Escape	0.317	0.924	10	-3.781	
+5	black	Through Eternal Fields	0.169	0.767	2	-8.069	
+5	black	Death Walks Among Us - Single Edit	0.4	0.896	7	-7.479	
+5	black	Gehenna	0.412	0.949	9	-8.376	
+5	black	Jean Grenier	0.549	0.95	9	-8.931	
+5	black	Reflection in Slow Time	0.345	0.561	1	-10.013	
+5	black	Part of the End	0.432	0.98	9	-5.047	
+5	black	Esaiah	0.49	0.958	8	-5.055	
+5	black	Veter	0.381	0.879	5	-6.227	
+5	black	We Are Pack	0.344	0.955	0	-5.573	
+5	black	The Dregs of Hades	0.504	0.954	6	-5.957	
+5	black	Moonflowers Bloom in Misery	0.406	0.439	0	-9.631	
+5	black	FN SCAR 16	0.23	0.931	3	-2.345	
+5	black	Götterdämmerung	0.483	0.961	4	-3.314	
+5	black	Black Fog and Poison Wind	0.372	0.944	2	-6.342	
+5	black	Event Horizon	0.446	0.716	7	-7.371	
+5	black	Stone That Burns	0.331	0.989	10	-5.715	
+5	black	Am Rande der Dunkelheit	0.154	0.973	3	-8.466	
+5	black	How Many Tears to Nurture a Rose?	0.395	0.989	1	-6.255	
+5	black	Of Blood and Tears	0.478	0.967	5	-3.87	
+5	black	Burn the Witch	0.253	0.962	1	-5.699	
+5	black	Trance IV: Nemesis	0.259	0.853	0	-6.8	
+5	black	The Bride of Corinth	0.561	0.918	7	-5.351	
+5	black	Hvítir Sandar	0.139	0.707	8	-7.387	
+5	black	Sadist	0.237	0.921	4	-6.684	
+5	black	Nauseating Oblivion	0.445	0.953	8	-7.229	
+5	black	Chernobyl Blues - Live at Slipper Room	0.124	0.413	4	-12.543	
+5	black	Ruun II - The Epitaph	0.366	0.649	1	-9.848	
+5	black	Hearts Turn To Stone	0.168	0.917	5	-4.691	
+5	black	Mellonta Tauta	0.417	0.89	11	-7.054	
+5	black	Diviner	0.331	0.951	4	-3.687	
+5	black	Beheading of the Circus Director	0.439	0.974	7	-5.054	
+5	black	Whisperer in Darkness	0.449	0.811	2	-12.989	
+5	black	Resurgence	0.139	0.962	10	-4.629	
+5	black	The Intertwined	0.197	0.624	1	-9.419	
+5	black	Reckoning	0.513	0.948	6	-6.965	
+5	black	Vargtimman	0.434	0.613	7	-10.301	
+5	black	Seance	0.166	0.875	5	-4.637	
+5	black	Anadem Gyre	0.412	0.266	1	-14.292	
+5	black	The End Times	0.378	0.961	8	-4.979	
+5	black	Calendula	0.322	0.893	9	-8.126	
+5	black	Dawn Never Breaks	0.432	0.922	11	-6.03	
+5	black	The Purest Black	0.215	0.995	9	-3.47	
+5	black	Focus	0.533	0.951	6	-6.569	
+5	black	Homewards	0.143	0.983	8	-7.345	
+5	black	His Masters Voice	0.228	0.847	4	-10.436	
+5	black	Corpus Asunder	0.225	0.699	11	-13.929	
+5	black	Gudars Skymning	0.41	0.894	0	-4.891	
+5	black	The Wolves of Ossory	0.103	0.926	2	-6.118	
+5	black	The Head of the Snake	0.219	0.983	6	-6.496	
+5	black	Gods of Debauchery	0.462	0.961	7	-5.282	
+5	black	Embers	0.426	0.414	11	-10.349	
+5	black	Voces Ab Alta	0.131	0.968	3	-6.844	
+5	black	When Will Gods Work Be Done	0.471	0.94	3	-5.873	
+5	black	End of Message	0.475	0.924	7	-6.184	
+5	black	Cursed	0.559	0.979	8	-4.76	
